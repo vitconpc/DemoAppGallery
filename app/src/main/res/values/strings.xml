@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoAppGallery</string>
+    <string name="msg_pemission_accept">Bạn có thể sử dụng ảnh trong máy</string>
 </resources>
